@@ -1,0 +1,9 @@
+{
+  "internal_links_checked": 12,
+  "json_files_parse": true,
+  "media_not_in_public_content": true,
+  "reader_review": "PASS within requested scope",
+  "synthetic_gate_tests": "Run verification/check_tools.py with NumPy",
+  "actual_media_check": "real-audio-check.json",
+  "known_limits": "20s demo vs28.096s original; hair and choreography residuals"
+}

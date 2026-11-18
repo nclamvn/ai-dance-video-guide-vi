@@ -1,0 +1,7 @@
+Kiểm ngày 18/11/2026.
+Reader Testing riêng đã rà README/docs/templates: bước làm rõ, phân nguồn rõ, không lẫn waveform với chuyển động, không coi budget thiếu giá là được chạy. Đã sửa thứ tự xuất2K trước ghép nhạc và audit file có nhạc; ghi20s chỉ là ví dụ.
+Công cụ căn nhạc chạy trên media thực, offset−0,0048125 giây, giữ nguyên bitstream hình, kiểm sauAAC đạt tương quan0,990–0,997 trong năm cửa sổ. Video thử sinh ra được xóa sau khi lưu báo cáo.
+Các chốt dừng được kiểm bằng dữ liệu tổng hợp: nhạc khác, nhạc lặp gây mơ hồ, nhạc trôi tempo đều bị chặn; offset biết trước được tìm đúng; thiếu giá chưa hoàn chỉnh; vượt trần bị phát hiện. Đây không phải benchmark video hoặc chứng nhận mọi đầu vào.
+Video chính2K có nhạc và video đối chiếu20s được giải mã toàn bộ1200khung không lỗi trong hồ sơ ca cục bộ.
+AppleVisionước lượng điểm cơ thể toàn669khung nguồn và1200khungAI; không chứng nhận giải phẫu hoặc từngpixel.
+Đã kiểm liên kết nội bộ vàJSON; không đưa media/tài khoản vào repo.

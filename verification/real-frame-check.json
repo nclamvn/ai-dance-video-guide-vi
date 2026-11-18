@@ -1,0 +1,16 @@
+{
+  "method": "AppleVision per-frame2D body estimates, translation/scale normalized,no rotation/mirroring; compare original PTS with nearest generated60fps PTS,confidence>.25,>=8validjoints",
+  "source_frames_processed": 669,
+  "source_frames_with_pose": 664,
+  "generated_frames_processed": 1200,
+  "generated_frames_with_pose": 1200,
+  "valid_original_timing_interval": [
+    1,
+    18.5
+  ],
+  "global_best_shift": {
+    "shift_seconds": 0.0,
+    "mean_normalized_error": 0.14857265009672704
+  },
+  "limits": "Pose estimation is approximate and does not prove pixel-perfect movement; generated shape differs. Missing source time after20s cannot be recovered by audio shifting."
+}

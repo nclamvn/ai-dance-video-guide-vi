@@ -1,0 +1,11 @@
+{
+  "file": null,
+  "sha256": null,
+  "nguon_day_du_giay": null,
+  "ban_tao_giay": null,
+  "pham_vi": {"khung_da_giai_ma": null, "bang_anh_da_xem": null, "khung_goc_da_xem": [], "doi_chieu_PTS": false},
+  "ket_qua": {"cau_truc": "CHUA_KIEM", "kich_thuoc": "CHUA_KIEM", "nhac_waveform": "CHUA_KIEM", "moc_dong_tac": "CHUA_KIEM", "tay_toc_mat": "CHUA_KIEM", "ngan_sach": "CHUA_KIEM", "nguoi_dung_nghiem_thu": "CHO"},
+  "loi": [{"giay": null, "khung": null, "loai": null, "mo_ta": null, "cach_xu_ly": null, "con_lai": true}],
+  "credit_thuc_te": null,
+  "quyet_dinh": "CHUA_NGHIEM_THU"
+}

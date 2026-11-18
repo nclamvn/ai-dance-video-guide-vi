@@ -1,0 +1,10 @@
+{
+  "removed_derived_test_media": [
+    {
+      "file": "runs/verified-music.mp4",
+      "bytes": 38999547
+    }
+  ],
+  "dependencies_installed": false,
+  "external_scratch_created": false
+}

@@ -1,0 +1,15 @@
+{
+  "nhan_vat": "Nhân vật hư cấu trưởng thành; điền tạo hình",
+  "trang_phuc": "Điền yêu cầu",
+  "canh": "Điền yêu cầu",
+  "nguon_day_du": null,
+  "thoi_luong_giay": null,
+  "giu_nguyen_bien_dao": true,
+  "nhac": null,
+  "kich_thuoc_xuat": [1440, 2560],
+  "fps_xuat": null,
+  "cho_phep_noi_suy": false,
+  "credit_toi_da": null,
+  "so_luot": {"ban_thu": 1, "sua": 1, "xuat": 1},
+  "tieu_chi_nghiem_thu": ["Giữ đủ động tác và mốc nhạc", "Mặt/tóc/tay ổn định", "Không thiếu đoạn nguồn"]
+}

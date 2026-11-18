@@ -1,0 +1,83 @@
+{
+  "scope": "Waveform timing only, not movement certification or human listening review",
+  "seconds_requested": 20.0,
+  "video_decoded_seconds": 20.0,
+  "jobs_submitted": 0,
+  "music_file": "Lonelymusic.m4a",
+  "video_file": "Demo-NhanVatTim-Quan1-Dem-2K-60fps-KhongNhac.mp4",
+  "reference_file": "x-video-2122278956175097942-1-1920p.mp4",
+  "mode": "automatic",
+  "confidence_gate": true,
+  "windows": [
+    {
+      "source_start_seconds": 1.0,
+      "music_start_seconds": 0.9951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.992639142480073,
+      "separated_alternative_score": 0.4181714400445855
+    },
+    {
+      "source_start_seconds": 4.2,
+      "music_start_seconds": 4.1951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.9941201386007427,
+      "separated_alternative_score": 0.5399167390847363
+    },
+    {
+      "source_start_seconds": 7.4,
+      "music_start_seconds": 7.3951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.9921178065335811,
+      "separated_alternative_score": 0.571088462181128
+    },
+    {
+      "source_start_seconds": 10.6,
+      "music_start_seconds": 10.5951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.9934248153375744,
+      "separated_alternative_score": 0.4132059018174094
+    },
+    {
+      "source_start_seconds": 13.8,
+      "music_start_seconds": 13.7951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.9898322600290376,
+      "separated_alternative_score": 0.5042512173896903
+    },
+    {
+      "source_start_seconds": 17.0,
+      "music_start_seconds": 16.9951875,
+      "offset_seconds": -0.0048125,
+      "correlation": 0.986999604307534,
+      "separated_alternative_score": 0.2943800623771559
+    }
+  ],
+  "status": "MUXED_REVIEW_REQUIRED",
+  "offset_seconds": -0.0048125,
+  "video_bitstream_before": "SHA256=4cbdf41a5ab94513143db17098051209931c60661b2fdf35d29c77bf06983a7e",
+  "video_bitstream_after": "SHA256=4cbdf41a5ab94513143db17098051209931c60661b2fdf35d29c77bf06983a7e",
+  "video_bitstream_unchanged": true,
+  "output_sha256": "749a8b976453ef0dd8f2df99f25212c9f6510f69c714abf072347957235ed93a",
+  "post_mux_waveform_checks": [
+    {
+      "source_seconds": 1.0,
+      "zero_lag_correlation": 0.9932277237548565
+    },
+    {
+      "source_seconds": 5.25,
+      "zero_lag_correlation": 0.9967690773004221
+    },
+    {
+      "source_seconds": 9.5,
+      "zero_lag_correlation": 0.9971251931945588
+    },
+    {
+      "source_seconds": 13.75,
+      "zero_lag_correlation": 0.9912124248465312
+    },
+    {
+      "source_seconds": 18.0,
+      "zero_lag_correlation": 0.9902385154291614
+    }
+  ]
+}

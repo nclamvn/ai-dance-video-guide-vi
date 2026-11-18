@@ -1,0 +1,12 @@
+{
+  "cap_credits": null,
+  "reserve_credits": null,
+  "items": [
+    {"id": "hoi-gia-va-agent", "quantity": 1, "unit_credits": null, "attempts": 1},
+    {"id": "Face-Element", "quantity": 1, "unit_credits": null, "attempts": 1},
+    {"id": "Kling-ban-thu", "quantity": 1, "unit_credits": null, "attempts": 1},
+    {"id": "Seedance-Real-Faces", "quantity": 1, "unit_credits": null, "attempts": 1, "conditional": true},
+    {"id": "xuat-upscale", "quantity": 1, "unit_credits": null, "attempts": 1}
+  ],
+  "ghi_chu": "Điền báo giá tài khoản hiện tại, tính cả lượt sửa có điều kiện. Chưa đủ giá thì chưa được coi là trong trần."
+}
